@@ -7,9 +7,9 @@
   
 💬 Ask me about <strong>frontend and backend frameworks</strong>
   
-📫 How to reach me <strong>maxim.voyevoda@cix.csi.cuny.edu</strong>
+📫 Reach me at <strong>maxim.voyevoda@cix.csi.cuny.edu</strong>
   
-⚡ Fun fact <strong>I've done undergrad research in the field of computer vision</strong>
+⚡ Fun fact: <strong>I've done undergrad research in the field of computer vision</strong>
 
 </div>
     
