@@ -11,6 +11,7 @@
   <p>⚡ Fun fact <strong>I've done undergrad research in the field of computer vision</strong></p>
 </div>
 
+<br>
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvoyevoda&show_icons=true&locale=en&layout=compact" alt="mvoyevoda">
 </p>
