@@ -11,6 +11,17 @@
   <p>⚡ Fun fact **I've done undergrad research in the field of computer vision**</p>
 </div>
 
+<div style="width: 50%; margin: auto; text-align: center;">
+  <p>🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Aurora">Aurora</a></p>
+
+  <p>💬 Ask me about <strong>frontend and backend frameworks</strong></p>
+
+  <p>📫 How to reach me <strong>maxim.voyevoda@cix.csi.cuny.edu</strong></p>
+
+  <p>⚡ Fun fact <strong>I've done undergrad research in the field of computer vision</strong></p>
+</div>
+
+
 
 
 <p align="center">
