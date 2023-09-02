@@ -2,13 +2,13 @@
 <h3 align="center">Computer Science Student & Full-Stack Web Developer</h3>
 
     
-    🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Aurora">Aurora</a>
+🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Aurora">Aurora</a>
   
-   💬 Ask me about <strong>frontend and backend frameworks</strong>
+💬 Ask me about <strong>frontend and backend frameworks</strong>
   
-    📫 How to reach me <strong>maxim.voyevoda@cix.csi.cuny.edu</strong>
+📫 How to reach me <strong>maxim.voyevoda@cix.csi.cuny.edu</strong>
   
-    ⚡ Fun fact <strong>I've done undergrad research in the field of computer vision</strong>
+⚡ Fun fact <strong>I've done undergrad research in the field of computer vision</strong>
     
 
 <br>
