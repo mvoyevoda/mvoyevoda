@@ -4,11 +4,11 @@
 <div align="center">
   <p>🔭 Check out my recent project: [Aurora](https://github.com/mvoyevoda/Aurora)</p>
 
-  💬 Ask me about **frontend and backend frameworks**
+  <p>💬 Ask me about **frontend and backend frameworks**</p>
 
-  📫 How to reach me **maxim.voyevoda@cix.csi.cuny.edu**
+  <p>📫 How to reach me **maxim.voyevoda@cix.csi.cuny.edu**</p>
 
-  ⚡ Fun fact **I've done undergrad research in the field of computer vision**
+  <p>⚡ Fun fact **I've done undergrad research in the field of computer vision**</p>
 </div>
 
 
