@@ -13,4 +13,4 @@
 
 
 
-<p style="width: 100%;"><img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvoyevoda&show_icons=true&locale=en&layout=compact" alt="mvoyevoda" /></p>
+<p style="width: 100%;"><img style="width: 50%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvoyevoda&show_icons=true&locale=en&layout=compact" alt="mvoyevoda" /></p>
