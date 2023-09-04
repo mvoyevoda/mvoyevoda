@@ -1,7 +1,6 @@
 <img src="https://media4.giphy.com/headers/tverd/wnhJXkg9FM3P.gif" >
 
 <h1 align="center">Hi 👋, I'm Maxim Voyevoda</h1>
-<br>
 <h3 align="center">Computer Science Student & Full-Stack Web Developer</h3>
 
 <div align="center">
