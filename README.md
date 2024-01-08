@@ -9,7 +9,7 @@
   
 💬 Ask me about <strong>frontend and backend frameworks</strong>
   
-📫 Reach me at <strong>maxim.voyevoda@cix.csi.cuny.edu</strong>
+📫 Reach me at <strong>maxim.voyevoda@outlook.com</strong>
 
 </div>
     
