@@ -7,7 +7,7 @@
   
 🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Aurora">Aurora</a>
   
-💬 Ask me about <strong>frontend and backend frameworks</strong>
+💬 Ask me about <strong>FS Web Dev & Blockchain Development</strong>
   
 📫 Reach me at <strong>maxim.voyevoda@outlook.com</strong>
 
