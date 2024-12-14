@@ -5,7 +5,7 @@
 
 <div align="center">
   
-🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Aurora">Aurora</a>
+🔭 Check out my recent project: <a href="https://github.com/mvoyevoda/Decentralized-Voting-Platform">Decentralized Voting Platform</a>
   
 💬 Ask me about <strong>FS Web Dev & Blockchain Development</strong>
   
